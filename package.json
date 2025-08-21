@@ -1,6 +1,6 @@
 {
-  "name": "jwks-rsa",
-  "version": "3.2.0",
+  "name": "@laylahealth/jwks-rsa",
+  "version": "3.2.1",
   "description": "Library to retrieve RSA public keys from a JWKS endpoint",
   "main": "src/index.js",
   "files": [
@@ -58,17 +58,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/auth0/node-jwks-rsa.git"
+    "url": "git+https://github.com/LaylaHealth/node-jwks-rsa.git"
   },
   "keywords": [
     "jwks",
     "rsa",
     "jwt"
   ],
-  "author": "Auth0",
+  "author": "Ajitem Sahasrabuddhe",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/auth0/node-jwks-rsa/issues"
+    "url": "https://github.com/LaylaHealth/node-jwks-rsa/issues"
   },
-  "homepage": "https://github.com/auth0/node-jwks-rsa#readme"
+  "homepage": "https://github.com/LaylaHealth/node-jwks-rsa#readme"
 }
